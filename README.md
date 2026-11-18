@@ -215,7 +215,7 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ## Earn with your own referral link
 
-![One person shares a link and three new people join, holding a glowing gold coin, with a trophy on the shelf](assets/IMG-20261118)
+![One person shares a link and three new people join, holding a glowing gold coin, with a trophy on the shelf](assets/IMG-20261118-WA0119.jpg)
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. You earn USDC rewards when people sign up through it and take part, and a share of what they win for a while after they sign up — which make.fun pays on top, so their own reward stays whole. Your link, what each reward is worth right now, and everything you have earned are on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count.
 
